@@ -9,7 +9,8 @@ a table in the Sleeping Giant Inn, in Riverwood.
 ![Astrielle wearing the ring](docs/images/astrielle.jpg)
 
 **[Download the latest release](https://github.com/71Kevin/astrielle-ring-se/releases/latest)**: one package with 4K
-textures, see [Downloads](#downloads).
+textures, see [Downloads](#downloads). Also on
+[Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/196507).
 
 ## Features
 
@@ -46,8 +47,7 @@ with mipmaps.
 | Page | Link |
 |---|---|
 | GitHub Releases | [All releases](https://github.com/71Kevin/astrielle-ring-se/releases) |
-| Nexus Mods | Coming soon |
-| Dwemer Mods | Coming soon |
+| Nexus Mods | [Tinesh's Astrielle Ring](https://www.nexusmods.com/skyrimspecialedition/mods/196507) |
 
 ## Requirements
 
