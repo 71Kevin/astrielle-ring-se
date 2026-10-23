@@ -8,7 +8,7 @@
    - `7z t` passes on the archive.
    - The archive holds `[Tinesh] Astrielle Ring.esp`, `meshes\Tinesh\AstrielleRing` (four models) and
      `textures\Tinesh\AstrielleRing` (six textures) at the root, with no `Data` folder level and nothing else.
-   - DDS headers: BC7 with full mip chains; ring textures 4096 × 2048 px, gem diffuse 2048 × 2048 px, gem normal map
+   - DDS headers: BC7 with mip chains; ring textures 4096 × 2048 px, gem diffuse 2048 × 2048 px, gem normal map
      and reflection mask 256 × 256 px.
    - The plugin is ESL-flagged and its only master is `Skyrim.esm`.
    - Install the package in Mod Organizer 2 and test in game: the ring on the table in the Sleeping Giant Inn, the

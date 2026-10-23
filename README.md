@@ -39,7 +39,7 @@ Release notes and SHA-256 checksums: [v1.0](https://github.com/71Kevin/astrielle
 
 The ring's metal has a diffuse map, a normal map and a reflection mask of 4096 × 2048 px, and the gem a diffuse map
 of 2048 × 2048 px; the gem's normal map and reflection mask are flat, so they are 256 × 256 px. All textures are BC7
-with full mipmaps.
+with mipmaps.
 
 ### Mod pages
 
