@@ -1,0 +1,12 @@
+# Build output and texture sources (recreated by build.ps1)
+out/
+cache/
+dist/
+
+# .NET
+plugin/bin/
+plugin/obj/
+
+# Python
+__pycache__/
+*.pyc
